@@ -9,6 +9,12 @@ This project contains two versions. You can pick which one you like in `index.js
 * **Static version**: The different pages of the site are hard-coded in the `pages` directory. This works well if you have a limited number of pages.
 * **Dynamic version**: The pages are stored in a "database" under `data/pages.js`. The `Page` component will extract title, body and blocks from the database and render a page on the fly. This is a good approach if you have many pages and want to add a CMS for your site.
 
+## Design
+
+The design was originally done in Sketch (see the `artwork` folder) and then converted to Figma:
+
+https://www.figma.com/file/LHvKwmf4lFWeKNVOmQnbTsZ0/HYF-Website
+
 ## Dependencies
 
 This project uses [React](https://reactjs.org) of course, and [React Router](https://reacttraining.com/react-router/web/guides/quick-start).
