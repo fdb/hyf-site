@@ -2,6 +2,8 @@
 
 Example site built in React, for [Hack Your Future Belgium React class](https://github.com/HackYourFutureBelgium/React).
 
+![](https://raw.githubusercontent.com/fdb/hyf-site/master/.github/screenshot.png)
+
 This project contains two versions. You can pick which one you like in `index.js`.
 
 * **Static version**: The different pages of the site are hard-coded in the `pages` directory. This works well if you have a limited number of pages.
